@@ -30,7 +30,10 @@
             "version_added": false,
             "impl_url": "https://crbug.com/234081017"
           },
-          "webview_ios": "mirror"
+          "webview_ios": "mirror",
+          "workerd": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": true,
@@ -66,7 +69,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -103,7 +109,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -212,7 +221,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -285,7 +297,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -322,7 +337,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -359,7 +377,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -432,7 +453,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,

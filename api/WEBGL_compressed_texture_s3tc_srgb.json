@@ -32,6 +32,9 @@
           "webview_android": "mirror",
           "webview_ios": {
             "version_added": false
+          },
+          "workerd": {
+            "version_added": false
           }
         },
         "status": {
