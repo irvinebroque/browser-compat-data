@@ -30,7 +30,10 @@
             "prefix": "webkit",
             "version_added": "37"
           },
-          "webview_ios": "mirror"
+          "webview_ios": "mirror",
+          "workerd": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": false,

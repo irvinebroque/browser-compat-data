@@ -39,6 +39,9 @@
           "webview_ios": {
             "version_added": false,
             "notes": "Notifications are supported in web apps saved to the home screen."
+          },
+          "workerd": {
+            "version_added": false
           }
         },
         "status": {
@@ -86,6 +89,9 @@
             "webview_ios": {
               "version_added": false,
               "notes": "Notifications are supported in web apps saved to the home screen."
+            },
+            "workerd": {
+              "version_added": false
             }
           },
           "status": {
@@ -123,7 +129,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -171,6 +180,9 @@
             "webview_ios": {
               "version_added": false,
               "notes": "Notifications are supported in web apps saved to the home screen."
+            },
+            "workerd": {
+              "version_added": false
             }
           },
           "status": {
@@ -208,7 +220,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -245,7 +260,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -299,6 +317,9 @@
             "webview_ios": {
               "version_added": false,
               "notes": "Notifications are supported in web apps saved to the home screen."
+            },
+            "workerd": {
+              "version_added": false
             }
           },
           "status": {
@@ -348,6 +369,9 @@
             "webview_ios": {
               "version_added": false,
               "notes": "Notifications are supported in web apps saved to the home screen."
+            },
+            "workerd": {
+              "version_added": false
             }
           },
           "status": {
@@ -385,7 +409,10 @@
             "webview_android": {
               "version_added": false
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,

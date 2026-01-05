@@ -32,7 +32,10 @@
             "version_added": "4.4.3",
             "notes": "Starting in version 56, `channelCountMode` is set to `explicit` and `channelCount` is fixed to the number of outputs, as per the latest spec."
           },
-          "webview_ios": "mirror"
+          "webview_ios": "mirror",
+          "workerd": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": false,
@@ -67,7 +70,10 @@
             "safari_ios": "mirror",
             "samsunginternet_android": "mirror",
             "webview_android": "mirror",
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,

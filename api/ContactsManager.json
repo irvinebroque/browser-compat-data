@@ -42,7 +42,10 @@
             "notes": "This API was exposed but failed upon opening a contact selector."
           },
           "webview_android": "mirror",
-          "webview_ios": "mirror"
+          "webview_ios": "mirror",
+          "workerd": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": true,
@@ -92,7 +95,10 @@
               "notes": "This API was exposed but failed upon opening a contact selector."
             },
             "webview_android": "mirror",
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,
@@ -143,7 +149,10 @@
               "notes": "This API was exposed but failed upon opening a contact selector."
             },
             "webview_android": "mirror",
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,

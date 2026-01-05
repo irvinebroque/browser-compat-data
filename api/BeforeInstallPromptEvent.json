@@ -63,7 +63,10 @@
               "version_added": "5.0"
             },
             "webview_android": "mirror",
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": true,

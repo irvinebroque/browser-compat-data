@@ -37,6 +37,9 @@
           "webview_ios": {
             "version_added": false,
             "notes": "Only supported on iPadOS."
+          },
+          "workerd": {
+            "version_added": false
           }
         },
         "status": {

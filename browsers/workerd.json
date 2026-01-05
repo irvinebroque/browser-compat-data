@@ -1,0 +1,19 @@
+{
+  "browsers": {
+    "workerd": {
+      "name": "workerd",
+      "type": "server",
+      "accepts_flags": false,
+      "accepts_webextensions": false,
+      "releases": {
+        "1.20221108.0": {
+          "release_date": "2022-11-08",
+          "release_notes": "https://github.com/cloudflare/workerd/releases/tag/v1.20221108.0",
+          "status": "current",
+          "engine": "V8",
+          "engine_version": "14.3"
+        }
+      }
+    }
+  }
+}

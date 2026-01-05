@@ -40,7 +40,10 @@
           "webview_android": {
             "version_added": "136"
           },
-          "webview_ios": "mirror"
+          "webview_ios": "mirror",
+          "workerd": {
+            "version_added": false
+          }
         },
         "status": {
           "experimental": false,
@@ -89,7 +92,10 @@
             "webview_android": {
               "version_added": "136"
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -138,7 +144,10 @@
             "webview_android": {
               "version_added": "136"
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
@@ -187,7 +196,10 @@
             "webview_android": {
               "version_added": "136"
             },
-            "webview_ios": "mirror"
+            "webview_ios": "mirror",
+            "workerd": {
+              "version_added": false
+            }
           },
           "status": {
             "experimental": false,
